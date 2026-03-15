@@ -1,0 +1,25 @@
+# ============================================================
+#  Facial Emotion Recognition — Requirements
+#  Install: pip install -r requirements.txt
+# ============================================================
+
+# Deep Learning
+tensorflow>=2.12.0          # TensorFlow + Keras
+# torch>=2.0.0              # Uncomment if using PyTorch variant
+
+# Computer Vision
+opencv-python>=4.8.0        # Webcam capture + face detection
+Pillow>=10.0.0              # Image utilities
+
+# Data & Scientific Computing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0         # Metrics, confusion matrix
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0                # Progress bars
+ipykernel>=6.25.0           # Jupyter notebook support
