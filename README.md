@@ -1,6 +1,6 @@
 
 # 🎭 Facial Emotion Recognition using CNN
-**A complete beginner-to-intermediate university mini-project**
+**A complete beginner-to-intermediate mini-project**
 *Python · TensorFlow/Keras · OpenCV · FER2013*
 
 ---
